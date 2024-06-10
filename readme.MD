@@ -2,4 +2,4 @@
 
 ## Служебное SPA для управления коттедж отелем
 
-Построенно с помощью React Querry и Supabase
+Построенно с помощью React Query и Supabase
