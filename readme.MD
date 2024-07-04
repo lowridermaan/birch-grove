@@ -7,7 +7,7 @@
 ## Запуск
 npm run dev
 
-##Ссылка на проект 
+## Ссылка на проект 
 [birch-grouve](https://tiny-centaur-065859.netlify.app/)
 
 ## Для авторизации 
