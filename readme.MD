@@ -14,7 +14,7 @@ npm run dev
 1. Практика React, React Query
 2. Практика БД (PostgreSQL с помощью supabase)
 3. Практика Styled Components
-4. Практика авторизация и аутентификация
+4. Практика авторизация и аутентификация (supabase)
 
 
 ## Для авторизации 
